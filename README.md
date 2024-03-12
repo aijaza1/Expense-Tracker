@@ -1,5 +1,5 @@
 # Expense Tracker
-![Example Image](expensetrackerimg.png)
+![Example Image](expensetrackerimg.PNG)
 
 This is a fully functional Expense Tracker application built using Asp.Net Core MVC and incorporating SyncFusion Components. 
 
